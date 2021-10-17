@@ -3,6 +3,9 @@
 html {
   font-size:62.5%;
 }
+li {
+  list-style-type:none;
+}
 body {
   padding:30px;
   background-color:#f6f7fb;
